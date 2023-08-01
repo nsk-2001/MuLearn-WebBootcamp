@@ -9,4 +9,5 @@ Repository for the Web Development Bootcamp hosted by Gtech Mulearn.
 | 4 | [SpaceX Site](https://nsk-2001.github.io/MuLearn-WebBootcamp/Spacex(4)/) |
 | 5 | [Birthday Gift ](https://nsk-2001.github.io/MuLearn-WebBootcamp/BirthdayGift(5)/) |
 | 6 | [Static_details ](https://nsk-2001.github.io/MuLearn-WebBootcamp/Static(6)/#community) |
+| 7 | [Flex Box ](https://nsk-2001.github.io/MuLearn-WebBootcamp/Flex(7)/) |
 
